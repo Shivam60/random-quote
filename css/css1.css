@@ -1,0 +1,8 @@
+
+body {
+    background-color: coral;
+}
+.margin1{
+    margin:100px 100px 100px 100px;
+    background-color: rgb(255, 255, 255);
+}
